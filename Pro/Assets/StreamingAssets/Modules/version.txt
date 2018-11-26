@@ -1,0 +1,1 @@
+{"version":"1.0.1","root_module":"LuaFramework","app_download_url":"http://192.168.0.125","res_download_url":"http://192.168.0.125","download_fail_retry":3,"preTamperLua":false}

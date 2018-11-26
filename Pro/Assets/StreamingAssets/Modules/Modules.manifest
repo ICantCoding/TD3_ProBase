@@ -1,0 +1,11 @@
+ManifestFileVersion: 0
+CRC: 3142442472
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common/cube
+      Dependencies:
+        Dependency_0: common/mat_red
+    Info_1:
+      Name: common/mat_red
+      Dependencies: {}
