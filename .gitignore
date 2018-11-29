@@ -1,7 +1,9 @@
-.vs/*
-.vscode/*
-Library/*
-Packages/*
-Temp/*
+/.vs
+/Pro/.vs
+/Pro/.vscode
+/Pro/Library
+/Pro/Packages
+/Pro/Temp
+/Pro/obj
 *.csproj
 *.sln
